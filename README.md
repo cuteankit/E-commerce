@@ -1,1 +1,1 @@
-http://novastyle.infinityfreeapp.com/?i=1
+<a href="http://novastyle.infinityfreeapp.com">
